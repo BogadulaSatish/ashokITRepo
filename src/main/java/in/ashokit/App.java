@@ -9,6 +9,9 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Bello World!" );
+        String s="Yametheyo";
         String s="satya";
+        int i=1;
+        int j=1;
     }
 }
